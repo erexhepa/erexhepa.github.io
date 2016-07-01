@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Elton Rexhepaj - webpage"
+title: " "
 ---
 
 <!-- {% include JB/setup %} -->
